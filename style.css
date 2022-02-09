@@ -5,10 +5,26 @@ body {
 
 img {
   width: 100%;
-  max-width: 800px;
+  max-width: 1000px;
 }
 /* Note to Jacy: this piece of code is to align the pieces of artwork together into one column*/
 .row {
   display: flex;
 }
 /**/
+.img1 {
+  width: 400px;
+  height: 400px;
+}
+.img2 {
+  width: 400px;
+  height: 400px;
+}
+.img3 {
+  width: 400px;
+  height: 400px;
+}
+.img4 {
+  width: 400px;
+  height: 400px;
+}
