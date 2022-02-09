@@ -1,3 +1,8 @@
 body {
-  background: #f9c4c4;
+  background: #fdcece;
+}
+
+img {
+  width: 100%;
+  max-width: 800px;
 }
