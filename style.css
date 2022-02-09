@@ -11,9 +11,4 @@ img {
 .row {
   display: flex;
 }
-
-.img1234 {
-  flex: 30%;
-  padding: 25px;
-}
 /**/
