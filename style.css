@@ -10,6 +10,7 @@ img {
 /* Note to Jacy: this piece of code is to align the pieces of artwork together into one column*/
 .row {
   display: flex;
+  justify-content: center;
 }
 /**/
 .img1 {
