@@ -29,3 +29,10 @@ img {
   width: 725px;
   height: 400px;
 }
+nav{
+  display: flex;
+}
+a {
+    margin: 75px;
+  justify-content: space-evenly;
+}
