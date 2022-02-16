@@ -13,7 +13,7 @@ img {
   justify-content: center;
 }
 /**/
-.img1 {
+/*.img1 {
   width: 400px;
   height: 400px;
 }
@@ -29,10 +29,14 @@ img {
   width: 725px;
   height: 400px;
 }
+*/
 nav{
   display: flex;
   justify-content: space-evenly;
 }
 a {
     margin: 60px;
+}
+.row {
+  margin-bottom: 70px;
 }
