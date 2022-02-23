@@ -15,6 +15,36 @@ img {
   display: flex;
   justify-content: center;
 }
+.Insta button {
+      color: #000000;
+    border-color: #bd9bbb;
+  margin: 20px;
+  padding: 20px
+}
+.Steam button {
+      color: #000000;
+    border-color: #bd9bbb;
+    margin: 20px;
+  padding: 20px
+}
+.Art button {
+      color: #000000;
+    border-color: #bd9bbb;
+    margin: 20px;
+  padding: 20px
+}
+.Job button {
+      color: #000000;
+    border-color: #bd9bbb;
+    margin: 20px;
+  padding: 20px
+}
+.Youtube button {
+      color: #000000;
+    border-color: #bd9bbb;
+    margin: 20px;
+  padding: 20px
+}
 /**/
 /*.img1 {
   width: 400px;
