@@ -55,8 +55,8 @@ img {
     margin: 24px;
   padding: 24px
 }
-/**/
-/*.img1 {
+
+.img1 {
   width: 400px;
   height: 400px;
 }
@@ -72,7 +72,6 @@ img {
   width: 725px;
   height: 400px;
 }
-*/
 nav{
   display: flex;
   justify-content: space-evenly;
