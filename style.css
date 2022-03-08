@@ -1,9 +1,10 @@
 body {
-  background: #ffeeee;
+  background: #ffb3b3;
   text-align: center;
 }
 h1 {
-  font-family: 'Mulish', sans-serif;
+  font-family: 'Syne Mono', monospace;
+  font-size: 50px;
 }
 
 img {
@@ -15,54 +16,57 @@ img {
   justify-content: center;
 }
 .Insta button {
-  font-family: 'Cookie', cursive;
-  border-radius: 12px;
+  font-family: 'Syne Mono', monospace;
+  border-radius: 20px;
     font-size: x-large;
-      color: #000000;
+  background: #FFF0F5;
     border-color: #bd9bbb;
   margin: 5px;
-  padding: 24px
+  padding: 40px
 }
 .Steam button {
-  font-family: 'Cookie', cursive;
-  border-radius: 12px;
+  font-family: 'Syne Mono', monospace;
+  border-radius: 20px;
     font-size: x-large;
-      color: #000000;
+  background: #FFF0F5;
     border-color: #bd9bbb;
     margin: 5px;
-  padding: 24px
+  padding: 40px
 }
 .Art button {
-  font-family: 'Cookie', cursive;
-  border-radius: 12px;
+  font-family: 'Syne Mono', monospace;
+  border-radius: 20px;
     font-size: x-large;
-      color: #000000;
+  background: #FFF0F5;
     border-color: #bd9bbb;
     margin: 5px;
-  padding: 24px
+  padding: 40px
     
 }
 .Job button {
-  font-family: 'Cookie', cursive;
-  border-radius: 12px;
+  font-family: 'Syne Mono', monospace;
+  border-radius: 20px;
     font-size: x-large;
-      color: #000000;
+  background: #FFF0F5;
     border-color: #bd9bbb;
     margin: 5px;
-  padding: 24px
+  padding: 40px
 }
 .Youtube button {
-  font-family: 'Cookie', cursive;
-  border-radius: 12px;
+  font-family: 'Syne Mono', monospace;
+  border-radius: 20px;
   font-size: x-large;
-      color: #000000;
+    
+  background: #FFF0F5;
     border-color: #bd9bbb;
     margin: 5px;
-  padding: 24px
+  padding: 40px
 }
 
-.img3 {
+.img3 img {
   height: auto;
+    border-radius: 10%;
+  box-shadow: 2px 2px 2px 2px;
 }
 
 nav{
